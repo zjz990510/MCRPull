@@ -1,1 +1,1 @@
-FROM mcr.microsoft.com/windows/servercore:1809
+FROM ghcr.io/deislabs/akri/video-streaming-app:latest-dev
