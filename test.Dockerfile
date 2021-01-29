@@ -1,0 +1,1 @@
+FROM ghcr.io/deislabs/akri/anomaly-detection-app:latest-dev
